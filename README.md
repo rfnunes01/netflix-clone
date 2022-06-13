@@ -1,8 +1,5 @@
 ### NETFLIX CLONE
-
-<h3 align = "center" fontSize="60px">
-  Clone da plataforma de streaming <a href="https://www.netflix.com/">Netflix</a>
-</h3>
+Clone da plataforma de streaming <a href="https://www.netflix.com/">Netflix</a>
 
 ## Tecnologias
 
